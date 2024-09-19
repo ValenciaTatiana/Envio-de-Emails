@@ -42,9 +42,11 @@ Este proyecto es una aplicación web simple para la validación y envío de un f
 - Después de **3 segundos**, se oculta el spinner y se muestra una alerta de éxito 🎉 indicando que el email ha sido enviado correctamente.
 
 # Página Web Terminada 💯
-
+![Screenshot_1](https://github.com/user-attachments/assets/26895ec5-939d-4f4b-b4ff-c787b05ef2b5)
 
 # 📲Página Web Responsive💻
+![enviar emails_1](https://github.com/user-attachments/assets/d0c786b9-5672-4dc7-9d9f-6c5fba942306)
 
 # Sitio Web Online 💥
 Para acceder al sitio web en línea, por favor visita el siguiente enlace: 
+https://66ebd3e9d0033a413c209d09--coruscating-trifle-fd4b33.netlify.app/
