@@ -41,3 +41,10 @@ Este proyecto es una aplicación web simple para la validación y envío de un f
 - Cuando el usuario presiona el botón **"Enviar"**, se mostrará un spinner ⏳ simulando el proceso de envío.
 - Después de **3 segundos**, se oculta el spinner y se muestra una alerta de éxito 🎉 indicando que el email ha sido enviado correctamente.
 
+# Página Web Terminada 💯
+
+
+# 📲Página Web Responsive💻
+
+# Sitio Web Online 💥
+Para acceder al sitio web en línea, por favor visita el siguiente enlace: 
